@@ -17,9 +17,9 @@
 | ------ | ------ |
 | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)](https://fastapi.tiangolo.com/ko/) | UX팀에게 RESTful API를 제공하기 위해서 사용함 |
 | [![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97%20langchain-fff?style=for-the-badge)](https://www.langchain.com/) | LLM을 출력을 정교화 하고 대화 기억, 프롬프트 엔지니어링을 위해 사용 |
-| [![Llama Index](https://img.shields.io/badge/%F0%9F%A6%99%20llama_index-fff?style=for-the-badge)](https://www.llamaindex.ai/) |  |
-| [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) |  |
-| [![BeautifulSoup](https://img.shields.io/badge/%F0%90%83%B8%20beautifulSoup-fff?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/) |  |
+| [![Llama Index](https://img.shields.io/badge/%F0%9F%A6%99%20llama_index-fff?style=for-the-badge)](https://www.llamaindex.ai/) | RAG를 통해 관광지의 최신 정보를 제공하기 위해 사용 |
+| [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) | 관광지 정보 수집을 위한 페이지에 접근하고 URL을 얻기 위해 사용 |
+| [![BeautifulSoup](https://img.shields.io/badge/%F0%90%83%B8%20beautifulSoup-fff?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/) | 관광지 정보 수집을 위해 사용 |
 
 <br>
 
