@@ -134,18 +134,14 @@
 - 오유림 : 캐릭터 및 맵 모델링
 
 <br><br>
-# 📅 프로젝트 진행 과정
-### 일정 관리
-- 
-
-<br>
-
-### 이슈 사항
-- 
-
-<br><br>
 # 🔗 참고 자료
 ### 사용한 논문 및 자료
 <!-- 프로젝트 진행에 참고한 논문, 레퍼런스, 온라인 자료 등 명시 -->
-- 
+- https://platform.openai.com/docs/api-reference
+- https://github.com/imoneoi/openchat
+- https://github.com/zephyrproject-rtos/zephyr
+- https://docs.llamaindex.ai/en/stable/
+- https://python.langchain.com/docs/get_started/introduction
+- [https://github.com/pinecone-io/examples/blob/master/learn/generation/openai/fine-tuning/gpt-3.5-agent-training/00-fine-tuning.ipynb](https://github.com/ageitgey/face_recognition)
+- https://docs.trychroma.com/
 
