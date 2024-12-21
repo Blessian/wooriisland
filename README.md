@@ -38,7 +38,7 @@
 
 <br>
 <form>
-     <input>
+     <input type="text">
 </form>
 
 ### 사용 기술
