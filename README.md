@@ -24,6 +24,9 @@
 
 <br>
 
+### 시연 영상
+[메타버스 아카데미 2기 최종프로젝트 대상 '우리가족섬'](https://youtu.be/vKTtqw60PuQ?si=t9kbl-Yw7uvCULkX)
+
 ### 주요 기능
 #### 앨범
 - CNN 기반의 Face Recognition 모델 활용 개별 안면 데이터 저장 및 사진 속 인물 추출
@@ -41,7 +44,6 @@
 
 ### 구조도
 ![스크린샷 2024-12-22 003954](https://github.com/user-attachments/assets/e024f017-08de-4d36-8d7a-9cc4c45f9548)
-
 
 <br>
 
