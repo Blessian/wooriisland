@@ -31,7 +31,7 @@
 - LLaVA v1.5 / GPT-4-Vision 활용, 사진의 날짜/시간 메타데이터, 인물 , 배경/물체 정보를 토대로 사진별 요약(메모) 생성
 - MySQL , S3 활용 사진 앨범 DB 구축
 
-#### ${\textsf{\color{magenta}챗봇 (Mine)}}$
+#### ${\textsf{\color{magenta}챗봇 (My)}}$
 - GPT-3.5turbo-1106 / GPT-4-1101-Preview 기반 채팅방 AI 챗봇 구현
 - 채팅방에서 이루어지는 대화에 참여하고 채팅 참여자들과 대화
 - RAG 구현하여 실시간 여행 정보 제공(인근 축제 및 행사 정보를 추천)
