@@ -37,9 +37,7 @@
 - LLamaIndex, ChromaDB를 활용하여 대화 내역을 저장, 일정 등록 및 조회
 
 <br>
-<form>
-     <button>button</button>
-</form>
+<a href="https://google.com">google</a>
 
 ### 사용 기술
 <!-- 사용 기술 나열, 해당 기술의 역할 -->
