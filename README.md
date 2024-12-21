@@ -17,6 +17,8 @@
 ![290501425-5c0d78ed-3356-4140-8842-217c56532aa8](https://github.com/user-attachments/assets/c7998673-2105-42a1-b025-3f3b2125a5ab)
 
 - '우리가족섬'은 메타버스 환경에서의 상호작용 경험을 바탕으로  가족 간의 관계 개선을 일차적인 목적으로 합니다. 함께 가상 공간에서 시간을 보내고 우리 가족만의 아지트를 채워 나가는 경험은 공동체의식 함양과 건강한 가족 문화 형성에 기여합니다
+<br>
+
 [지난해 ‘1인 가구’ 비율 처음으로 40% 넘어서, 김원진, 2023.08.23](https://m.khan.co.kr/national/national-general/article/202208231228001#c2b)<br>
 [1인 가구 750만명…생활 모습은 '천차만별', 유정무, 2023.08.29](https://www.banronbodo.com/news/articleView.html?idxno=21984)<br>
 
