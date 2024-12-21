@@ -44,16 +44,8 @@
 
 <br>
 
-### 구조도
-![스크린샷 2024-12-22 003954](https://github.com/user-attachments/assets/e024f017-08de-4d36-8d7a-9cc4c45f9548)
-
-<br>
-
 ### 사용 기술
-<!-- 사용 기술 나열, 해당 기술의 역할 -->
-| Tech | Type | Description |
-| ------ | ------ | ------ |
-|  |  |  |
+![스크린샷 2024-12-22 003954](https://github.com/user-attachments/assets/e024f017-08de-4d36-8d7a-9cc4c45f9548)
 
 <br>
 
