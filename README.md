@@ -12,6 +12,10 @@
 ![340167520-1d4dc9b5-8b66-4773-aaca-c86ecf992fd5](https://github.com/user-attachments/assets/166dd3d3-8166-45ea-8823-24334627f7c4)
 
 <br><br>
+# 시연영상
+[메타버스 아카데미 2기 최종프로젝트 대상 '우리가족섬'](https://youtu.be/vKTtqw60PuQ?si=t9kbl-Yw7uvCULkX)
+
+<br><br>
 # 📢 프로젝트 소개
 ### 주제 선정 동기
 - 독립했더라도 가족이니까<br>
@@ -24,11 +28,6 @@
 
 [지난해 ‘1인 가구’ 비율 처음으로 40% 넘어서, 김원진, 2023.08.23](https://m.khan.co.kr/national/national-general/article/202208231228001#c2b)<br>
 [1인 가구 750만명…생활 모습은 '천차만별', 유정무, 2023.08.29](https://www.banronbodo.com/news/articleView.html?idxno=21984)<br>
-
-<br>
-
-### 시연 영상
-[메타버스 아카데미 2기 최종프로젝트 대상 '우리가족섬'](https://youtu.be/vKTtqw60PuQ?si=t9kbl-Yw7uvCULkX)
 
 <br>
 
