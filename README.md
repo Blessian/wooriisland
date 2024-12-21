@@ -12,7 +12,7 @@
 ![340167520-1d4dc9b5-8b66-4773-aaca-c86ecf992fd5](https://github.com/user-attachments/assets/166dd3d3-8166-45ea-8823-24334627f7c4)
 
 <br><br>
-# 시연영상
+# 🎬 시연영상
 [메타버스 아카데미 2기 최종프로젝트 대상 '우리가족섬'](https://youtu.be/vKTtqw60PuQ?si=t9kbl-Yw7uvCULkX)
 
 <br><br>
