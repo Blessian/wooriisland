@@ -70,26 +70,68 @@
 
 <br><br>
 # 👥 팀원 소개 및 역할
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/zionlee00"><img src="https://avatars.githubusercontent.com/zionlee00" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/jimandy00"><img src="https://avatars.githubusercontent.com/jimandy00" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/hyunsu98"><img src="https://avatars.githubusercontent.com/hyunsu98" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/Blessian"><img src="https://avatars.githubusercontent.com/Blessian" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/min731"><img src="https://avatars.githubusercontent.com/min731" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/jinvvoo"><img src="https://avatars.githubusercontent.com/jinvvoo" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/yurimo0714"><img src="https://avatars.githubusercontent.com/yurimo0714" width="150px;" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/zionlee00"><b>이시온</b></td>
+    <td align="center"><a href="https://github.com/jimandy00"><b>변지환</b></td>
+    <td align="center"><a href="https://github.com/hyunsu98"><b>이현숙</b></td>
+    <td align="center"><a href="https://github.com/Blessian"><b>이승현</b></td>
+    <td align="center"><a href="https://github.com/min731"><b>임정민</b></td>
+    <td align="center"><a href="https://github.com/jinvvoo"><b>김진우</b></td> 
+    <td align="center"><a href="https://github.com/yurimo0714"><b>오유림</b></td>
+  </tr>
+
+  <tr>
+    <td align="center">Lee Si on</td>
+    <td align="center">Byeon Ji Hwan</td>
+    <td align="center">Lee Hyeon Sook</td>
+    <td align="center">Lee Seung Hyun</td>
+    <td align="center">Lim Jung Min</td>
+    <td align="center">Kim Jin Woo</td>
+    <td align="center">Oh Yu rim</td>
+  </tr>
+
+  <tr>
+    <td align="center">콘텐츠기획</td>
+    <td align="center">XR(Unity)</td>
+    <td align="center">XR(Unity)</td>
+    <td align="center">AI</td>
+    <td align="center">AI</td>
+    <td align="center">Server</td>
+    <td align="center">3D모델링</td>
+  </tr>
+  
+</table>
+
+<br>
+
 ### [기획]
 - 이시온: 기획 / 디자인
-
 <br>
 
 ### [AI]
 - 이승현: AI 챗봇 (일상 대화 참여 / 축제 정보 조회 / 일정 관리)
 - 임정민 : AI 사진 앨범 (인물 안면 인식 / 배경 및 물체 Tagging / 사진 메모 생성)
-
 <br>
   
 ### [서버]
 - 김진우 : 회원가입 / 로그인 / 회원 및 섬 정보 저장
-
 <br>
 
 ### [유니티]
 - 변지환 : 채팅창 UI / 섬 꾸미기 / 로비 및 방(섬) 생성
 - 이현숙 : 사진 앨범 UI / GPS 위치 등록 / 캐릭터 상호작용
-
 <br>
   
 ### [3D 모델링]
