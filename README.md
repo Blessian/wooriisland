@@ -142,6 +142,5 @@
 - https://github.com/zephyrproject-rtos/zephyr
 - https://docs.llamaindex.ai/en/stable/
 - https://python.langchain.com/docs/get_started/introduction
-- [https://github.com/pinecone-io/examples/blob/master/learn/generation/openai/fine-tuning/gpt-3.5-agent-training/00-fine-tuning.ipynb](https://github.com/ageitgey/face_recognition)
 - https://docs.trychroma.com/
 
